@@ -1,6 +1,6 @@
-Paper£º Robust Subspace Clustering with Low-Rank Structure Constraint
+Paper: Robust Subspace Clustering with Low-Rank Structure Constraint
 
-Test on the synthetic dataset£ºtest.m  
+Test on the synthetic datasetÂ£Âºtest.m  
 
 Dataset: Consisting of one line and one plane
 
